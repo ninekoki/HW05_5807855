@@ -5,7 +5,7 @@ var app = express();
 var connection = mySql.createConnection({
     host:'mydb.cshyvbtfvili.ap-southeast-1.rds.amazonaws.com',
     user:'admin',
-    password:'08012540',
+    password:'aaaaaaaa',
     database:'game1'
 });
 
